@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/cv/static/css/main.1ef7873e.chunk.css",
-    "main.js": "/cv/static/js/main.626a941f.chunk.js",
-    "main.js.map": "/cv/static/js/main.626a941f.chunk.js.map",
-    "runtime-main.js": "/cv/static/js/runtime-main.84a9fff3.js",
-    "runtime-main.js.map": "/cv/static/js/runtime-main.84a9fff3.js.map",
-    "static/js/2.ba0d1150.chunk.js": "/cv/static/js/2.ba0d1150.chunk.js",
-    "static/js/2.ba0d1150.chunk.js.map": "/cv/static/js/2.ba0d1150.chunk.js.map",
-    "index.html": "/cv/index.html",
-    "precache-manifest.0c61a38d8a232db44e59f0ca9cc4368e.js": "/cv/precache-manifest.0c61a38d8a232db44e59f0ca9cc4368e.js",
-    "service-worker.js": "/cv/service-worker.js",
-    "static/css/main.1ef7873e.chunk.css.map": "/cv/static/css/main.1ef7873e.chunk.css.map",
-    "static/js/2.ba0d1150.chunk.js.LICENSE.txt": "/cv/static/js/2.ba0d1150.chunk.js.LICENSE.txt",
-    "static/media/Kings_College_London_logo.svg": "/cv/static/media/Kings_College_London_logo.b43c579f.svg",
-    "static/media/apadmi-logo.svg": "/cv/static/media/apadmi-logo.540b160a.svg",
-    "static/media/deloitte_logo.png": "/cv/static/media/deloitte_logo.fb10d629.png",
-    "static/media/ibm_logo.png": "/cv/static/media/ibm_logo.01c6d62c.png",
-    "static/media/profile.png": "/cv/static/media/profile.4be8e770.png"
+    "main.css": "/static/css/main.1ef7873e.chunk.css",
+    "main.js": "/static/js/main.2716d96f.chunk.js",
+    "main.js.map": "/static/js/main.2716d96f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bfca2edd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bfca2edd.js.map",
+    "static/js/2.ba0d1150.chunk.js": "/static/js/2.ba0d1150.chunk.js",
+    "static/js/2.ba0d1150.chunk.js.map": "/static/js/2.ba0d1150.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2f1dbc978d27c1f80a631651af3730f8.js": "/precache-manifest.2f1dbc978d27c1f80a631651af3730f8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1ef7873e.chunk.css.map": "/static/css/main.1ef7873e.chunk.css.map",
+    "static/js/2.ba0d1150.chunk.js.LICENSE.txt": "/static/js/2.ba0d1150.chunk.js.LICENSE.txt",
+    "static/media/Kings_College_London_logo.svg": "/static/media/Kings_College_London_logo.b43c579f.svg",
+    "static/media/apadmi-logo.svg": "/static/media/apadmi-logo.540b160a.svg",
+    "static/media/deloitte_logo.png": "/static/media/deloitte_logo.fb10d629.png",
+    "static/media/ibm_logo.png": "/static/media/ibm_logo.01c6d62c.png",
+    "static/media/profile.png": "/static/media/profile.4be8e770.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.84a9fff3.js",
+    "static/js/runtime-main.bfca2edd.js",
     "static/js/2.ba0d1150.chunk.js",
     "static/css/main.1ef7873e.chunk.css",
-    "static/js/main.626a941f.chunk.js"
+    "static/js/main.2716d96f.chunk.js"
   ]
 }
