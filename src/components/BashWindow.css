@@ -1,0 +1,59 @@
+ul {
+    list-style: none;
+    padding-left: 1.2em;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+li:before {
+    content: ">  ";
+}
+
+.bash {
+    width: 40vw;
+    border-radius: 1.1vw;
+}
+
+.bash > .taskbar {
+    box-sizing: border-box;
+    border-radius: 1.1vw 1.1vw 0 0;
+    background-color: #d8d8d8;
+    width: 100%;
+    display: flex;
+    padding: 1.5vh;
+}
+
+.bash > .taskbar > .button {
+    width: 1.03vw;
+    height: 1.03vw;
+    border-radius: 50%;
+}
+
+.bash > .taskbar > .button + .button {
+    margin-left: 0.7vw;
+}
+
+.close-button {
+    background: #ff483f;
+}
+
+.minimise-button {
+    background: #ecbb38;
+}
+
+.maximise-button {
+    background: #36d3a8;
+}
+
+.details {
+    font-family: "Courier New", serif;
+    padding: 1vw;
+    color: white;
+    overflow: hidden;
+}
+
+.main-info {
+    padding-top: 1vh;
+}

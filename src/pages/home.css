@@ -1,0 +1,125 @@
+/* .container>div>div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text {
+    pointer-events: none;
+    justify-content: start !important;
+    font-family: 'Kanit', sans-serif;
+    line-height: 0px;
+    text-transform: uppercase;
+}
+
+.number {
+    font-size: 450px;
+    color: #373c4c;
+}
+
+.number span {
+    display: inline-block;
+    position: relative;
+    transform: translate3d(-35%, 0, 0);
+}
+
+.header {
+    margin-left: 350px;
+    font-size: 70px;
+    color: white;
+}
+
+.stripe {
+    height: 2px;
+    width: auto;
+}
+
+.slopeBegin {
+    background-color: #20232f;
+    clip-path: polygon(20vw 0, 70% 0, calc(70% - 20vw) 100%, 0 100%);
+}
+
+.slopeEnd {
+    clip-path: polygon(70% 0, 100% 0, calc(100% - 20vw) 100%, calc(70% - 20vw) 100%);
+}
+
+.slopeBegin,
+.slopeEnd {
+    position: absolute;
+    width: 140%;
+    height: 100%;
+    cursor: pointer;
+}
+
+.pink {
+    background: linear-gradient(to right, deeppink 0%, coral 100%);
+}
+
+.teal {
+    background: linear-gradient(to right, SlateBlue 0%, DeepSkyBlue 100%);
+}
+
+.tomato {
+    background: linear-gradient(to right, tomato 0%, gold 100%);
+} */
+/* 
+.bash {
+    height: 22vw;
+    width: 40vw;
+    background-color: #101010;
+    border-radius: 1.1vw;
+}
+
+.bash > .taskbar {
+    box-sizing: border-box;
+    border-radius: 1.1vw 1.1vw 0 0;
+    background-color: #d8d8d8;
+    width: 100%;
+    display: flex;
+    padding: 1.5vh;
+}
+
+.bash > .taskbar > .button {
+    width: 1.03vw;
+    height: 1.03vw;
+    border-radius: 50%;
+}
+
+.bash > .taskbar > .button + .button {
+    margin-left: 0.7vw;
+}
+
+.close-button {
+    background: #ff483f;
+}
+
+.minimise-button {
+    background: #ecbb38;
+}
+
+.maximise-button {
+    background: #36d3a8;
+}
+
+.details {
+    font-family: "Courier New", serif;
+    padding: 1vw;
+    color: white;
+    overflow: hidden;
+}
+
+.logo > #kcl {
+    margin: 0.5vh auto;
+    margin-bottom: 1vh;
+    width: 25%;
+    display: flex;
+    justify-self: center;
+}
+
+.bash-text {
+    padding: 0.5vh;
+}
+
+.main-info {
+    padding-top: 1vh;
+} */
