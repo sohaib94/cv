@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cv-website/static/css/main.1ef7873e.chunk.css",
+    "main.js": "/cv-website/static/js/main.c87e5cc5.chunk.js",
+    "main.js.map": "/cv-website/static/js/main.c87e5cc5.chunk.js.map",
+    "runtime-main.js": "/cv-website/static/js/runtime-main.efe8a0b7.js",
+    "runtime-main.js.map": "/cv-website/static/js/runtime-main.efe8a0b7.js.map",
+    "static/js/2.ba0d1150.chunk.js": "/cv-website/static/js/2.ba0d1150.chunk.js",
+    "static/js/2.ba0d1150.chunk.js.map": "/cv-website/static/js/2.ba0d1150.chunk.js.map",
+    "index.html": "/cv-website/index.html",
+    "precache-manifest.6ffd101beeb79d7d0b69fbb0e95100c2.js": "/cv-website/precache-manifest.6ffd101beeb79d7d0b69fbb0e95100c2.js",
+    "service-worker.js": "/cv-website/service-worker.js",
+    "static/css/main.1ef7873e.chunk.css.map": "/cv-website/static/css/main.1ef7873e.chunk.css.map",
+    "static/js/2.ba0d1150.chunk.js.LICENSE.txt": "/cv-website/static/js/2.ba0d1150.chunk.js.LICENSE.txt",
+    "static/media/Kings_College_London_logo.svg": "/cv-website/static/media/Kings_College_London_logo.b43c579f.svg",
+    "static/media/apadmi-logo.svg": "/cv-website/static/media/apadmi-logo.540b160a.svg",
+    "static/media/deloitte_logo.png": "/cv-website/static/media/deloitte_logo.fb10d629.png",
+    "static/media/ibm_logo.png": "/cv-website/static/media/ibm_logo.01c6d62c.png",
+    "static/media/profile.png": "/cv-website/static/media/profile.4be8e770.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efe8a0b7.js",
+    "static/js/2.ba0d1150.chunk.js",
+    "static/css/main.1ef7873e.chunk.css",
+    "static/js/main.c87e5cc5.chunk.js"
+  ]
+}
