@@ -22,13 +22,7 @@ const BashWindow = (props) => {
                             id={props.logo}
                             src={require(`../assets/${props.logo}`)}
                             alt='Logo'
-                            style={{
-                                margin: "0.5vh auto",
-                                marginBottom: "1vh",
-                                width: "25%",
-                                display: "flex",
-                                justifySelf: "center",
-                            }}
+                            className='logo'
                         />
                     </div>
                     <div className='main-info bash-text'>

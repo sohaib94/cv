@@ -12,11 +12,11 @@ li:before {
 }
 
 .bash {
-    width: 40vw;
+    width: 50vw;
     border-radius: 1.1vw;
 }
 
-.bash > .taskbar {
+.bash>.taskbar {
     box-sizing: border-box;
     border-radius: 1.1vw 1.1vw 0 0;
     background-color: #d8d8d8;
@@ -25,13 +25,13 @@ li:before {
     padding: 1.5vh;
 }
 
-.bash > .taskbar > .button {
+.bash>.taskbar>.button {
     width: 1.03vw;
     height: 1.03vw;
     border-radius: 50%;
 }
 
-.bash > .taskbar > .button + .button {
+.bash>.taskbar>.button+.button {
     margin-left: 0.7vw;
 }
 
@@ -56,4 +56,12 @@ li:before {
 
 .main-info {
     padding-top: 1vh;
+}
+
+.logo {
+    margin: 0.5vh auto;
+    margin-bottom: 1vh;
+    width: 65%;
+    display: flex;
+    justify-self: center;
 }

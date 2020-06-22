@@ -284,7 +284,7 @@ class Home extends React.Component {
                     offset={2}
                     speed={-0.3}
                     style={{
-                        paddingTop: "20vh",
+                        paddingTop: "10vh",
                     }}>
                     <BashWindow
                         logo='deloitte_logo.png'
@@ -302,8 +302,8 @@ class Home extends React.Component {
                     offset={2}
                     speed={-0.3}
                     style={{
-                        paddingLeft: "60vw",
-                        paddingTop: "20vh",
+                        paddingLeft: "51vw",
+                        paddingTop: "10vh",
                         zIndex: 2,
                     }}>
                     <BashWindow
