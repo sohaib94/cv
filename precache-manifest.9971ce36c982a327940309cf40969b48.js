@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "570fe558a1b4fd40c930354e2a83af58",
+    "revision": "f4dcb186ce62d06bdc8cb831457bba60",
     "url": "/cv/index.html"
   },
   {
-    "revision": "2a5b2502c12ca9d34d19",
+    "revision": "85d7b3d7ce300a405ae3",
     "url": "/cv/static/css/main.1ef7873e.chunk.css"
   },
   {
-    "revision": "8546315fbbb80e9637b5",
-    "url": "/cv/static/js/2.ba0d1150.chunk.js"
+    "revision": "68854350b113ac3c17eb",
+    "url": "/cv/static/js/2.f476a033.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/cv/static/js/2.ba0d1150.chunk.js.LICENSE.txt"
+    "url": "/cv/static/js/2.f476a033.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a5b2502c12ca9d34d19",
-    "url": "/cv/static/js/main.626a941f.chunk.js"
+    "revision": "85d7b3d7ce300a405ae3",
+    "url": "/cv/static/js/main.253742df.chunk.js"
   },
   {
     "revision": "c55da018f7bd18bfb53b",
@@ -32,8 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv/static/media/apadmi-logo.540b160a.svg"
   },
   {
+    "revision": "305b7b7bf17b8341d4c61d0dc017fb9d",
+    "url": "/cv/static/media/cloud.305b7b7b.svg"
+  },
+  {
     "revision": "fb10d6296584daeb82dd208c046d583e",
     "url": "/cv/static/media/deloitte_logo.fb10d629.png"
+  },
+  {
+    "revision": "87a52ba9ab37fbe5259d1dead5d34187",
+    "url": "/cv/static/media/earth.87a52ba9.svg"
   },
   {
     "revision": "01c6d62c546a43f71abc89ef89e6376b",
@@ -42,5 +50,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4be8e7708aaf2326e158c69890bcc775",
     "url": "/cv/static/media/profile.4be8e770.png"
+  },
+  {
+    "revision": "021c26fde2baf756f618ed4ec8593601",
+    "url": "/cv/static/media/satellite4.021c26fd.svg"
+  },
+  {
+    "revision": "5546c7c6ef89997c5735d5b2aa91b21b",
+    "url": "/cv/static/media/stars.5546c7c6.svg"
   }
 ]);
