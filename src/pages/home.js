@@ -304,7 +304,6 @@ class Home extends React.Component {
                     style={{
                         paddingLeft: "51vw",
                         paddingTop: "10vh",
-                        zIndex: 2,
                     }}>
                     <BashWindow
                         logo='apadmi-logo.svg'
