@@ -2,14 +2,18 @@ import React from "react";
 import { Parallax, ParallaxLayer } from "react-spring/renderprops-addons";
 import "./home.css";
 import BashWindow from "../components/BashWindow";
+import Stars from "../assets/stars.svg";
+import Satellite from "../assets/satellite4.svg";
+import Cloud from "../assets/cloud.svg";
+import Earth from "../assets/earth.svg";
 
 // Little helpers ...
-const url = (name, wrap = false) =>
-    `${
-        wrap ? "url(" : ""
-    }https://awv3node-homepage.surge.sh/build/assets/${name}.svg${
-        wrap ? ")" : ""
-    }`;
+// const url = (name, wrap = false) =>
+//     `${
+//         wrap ? "url(" : ""
+//     }https://awv3node-homepage.surge.sh/build/assets/${name}.svg${
+//         wrap ? ")" : ""
+//     }`;
 // const Pink = ({ children }) => (
 //     <span style={{ color: "#FF6AC1" }}>{children}</span>
 // );
@@ -49,7 +53,7 @@ class Home extends React.Component {
                     speed={0}
                     factor={3}
                     style={{
-                        backgroundImage: url("stars", true),
+                        backgroundImage: `url(${Stars})`,
                         backgroundSize: "cover",
                     }}
                 />
@@ -60,7 +64,7 @@ class Home extends React.Component {
                     style={{ pointerEvents: "none" }}>
                     <img
                         alt=''
-                        src={url("satellite4")}
+                        src={Satellite}
                         style={{ width: "15%", marginLeft: "70%" }}
                     />
                 </ParallaxLayer>
@@ -68,7 +72,7 @@ class Home extends React.Component {
                 <ParallaxLayer offset={1} speed={0.8} style={{ opacity: 0.1 }}>
                     <img
                         alt=''
-                        src={url("cloud")}
+                        src={Cloud}
                         style={{
                             display: "block",
                             width: "20%",
@@ -77,7 +81,7 @@ class Home extends React.Component {
                     />
                     <img
                         alt=''
-                        src={url("cloud")}
+                        src={Cloud}
                         style={{
                             display: "block",
                             width: "10%",
@@ -92,7 +96,7 @@ class Home extends React.Component {
                     style={{ opacity: 0.1 }}>
                     <img
                         alt=''
-                        src={url("cloud")}
+                        src={Cloud}
                         style={{
                             display: "block",
                             width: "20%",
@@ -101,7 +105,7 @@ class Home extends React.Component {
                     />
                     <img
                         alt=''
-                        src={url("cloud")}
+                        src={Cloud}
                         style={{
                             display: "block",
                             width: "20%",
@@ -113,7 +117,7 @@ class Home extends React.Component {
                 <ParallaxLayer offset={1} speed={0.2} style={{ opacity: 0.2 }}>
                     <img
                         alt=''
-                        src={url("cloud")}
+                        src={Cloud}
                         style={{
                             display: "block",
                             width: "10%",
@@ -122,7 +126,7 @@ class Home extends React.Component {
                     />
                     <img
                         alt=''
-                        src={url("cloud")}
+                        src={Cloud}
                         style={{
                             display: "block",
                             width: "20%",
@@ -137,7 +141,7 @@ class Home extends React.Component {
                     style={{ opacity: 0.4 }}>
                     <img
                         alt=''
-                        src={url("cloud")}
+                        src={Cloud}
                         style={{
                             display: "block",
                             width: "20%",
@@ -146,7 +150,7 @@ class Home extends React.Component {
                     />
                     <img
                         alt=''
-                        src={url("cloud")}
+                        src={Cloud}
                         style={{
                             display: "block",
                             width: "25%",
@@ -155,7 +159,7 @@ class Home extends React.Component {
                     />
                     <img
                         alt=''
-                        src={url("cloud")}
+                        src={Cloud}
                         style={{
                             display: "block",
                             width: "10%",
@@ -170,7 +174,7 @@ class Home extends React.Component {
                     style={{ opacity: 0.6 }}>
                     <img
                         alt=''
-                        src={url("cloud")}
+                        src={Cloud}
                         style={{
                             display: "block",
                             width: "20%",
@@ -179,7 +183,7 @@ class Home extends React.Component {
                     />
                     <img
                         alt=''
-                        src={url("cloud")}
+                        src={Cloud}
                         style={{
                             display: "block",
                             width: "15%",
@@ -197,7 +201,7 @@ class Home extends React.Component {
                         justifyContent: "center",
                         pointerEvents: "none",
                     }}>
-                    <img alt='' src={url("earth")} style={{ width: "60%" }} />
+                    <img alt='' src={Earth} style={{ width: "60%" }} />
                 </ParallaxLayer>
 
                 {/* <ParallaxLayer
