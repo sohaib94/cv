@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cv/static/css/main.1ef7873e.chunk.css",
-    "main.js": "/cv/static/js/main.ffa5831e.chunk.js",
-    "main.js.map": "/cv/static/js/main.ffa5831e.chunk.js.map",
+    "main.css": "/cv/static/css/main.6b7bb3e8.chunk.css",
+    "main.js": "/cv/static/js/main.6a309b60.chunk.js",
+    "main.js.map": "/cv/static/js/main.6a309b60.chunk.js.map",
     "runtime-main.js": "/cv/static/js/runtime-main.84a9fff3.js",
     "runtime-main.js.map": "/cv/static/js/runtime-main.84a9fff3.js.map",
     "static/js/2.f476a033.chunk.js": "/cv/static/js/2.f476a033.chunk.js",
     "static/js/2.f476a033.chunk.js.map": "/cv/static/js/2.f476a033.chunk.js.map",
     "index.html": "/cv/index.html",
-    "precache-manifest.112f3405e181980be52886c2211577b0.js": "/cv/precache-manifest.112f3405e181980be52886c2211577b0.js",
+    "precache-manifest.4dad6fd2bb10f141193d9b12e3b0b509.js": "/cv/precache-manifest.4dad6fd2bb10f141193d9b12e3b0b509.js",
     "service-worker.js": "/cv/service-worker.js",
-    "static/css/main.1ef7873e.chunk.css.map": "/cv/static/css/main.1ef7873e.chunk.css.map",
+    "static/css/main.6b7bb3e8.chunk.css.map": "/cv/static/css/main.6b7bb3e8.chunk.css.map",
     "static/js/2.f476a033.chunk.js.LICENSE.txt": "/cv/static/js/2.f476a033.chunk.js.LICENSE.txt",
     "static/media/Kings_College_London_logo.svg": "/cv/static/media/Kings_College_London_logo.b43c579f.svg",
     "static/media/apadmi-logo.svg": "/cv/static/media/apadmi-logo.540b160a.svg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.84a9fff3.js",
     "static/js/2.f476a033.chunk.js",
-    "static/css/main.1ef7873e.chunk.css",
-    "static/js/main.ffa5831e.chunk.js"
+    "static/css/main.6b7bb3e8.chunk.css",
+    "static/js/main.6a309b60.chunk.js"
   ]
 }
